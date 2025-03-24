@@ -855,8 +855,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TwE_sVUF9mLOqTwVfOhv-1" value="安全方针:安全第一，预防为主，综合治理安全领导小组:项目经理、项目总工、安全总监" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-1" value="安全方针：安全第一，预防为主，综合治理&lt;div&gt;安全领导小组：项目经理、项目总工、安全总监&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="525" y="30" width="275" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
