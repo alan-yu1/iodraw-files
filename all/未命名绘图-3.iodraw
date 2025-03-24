@@ -646,6 +646,12 @@
         <mxCell id="lGBiRjt5jMe59tK6bgxN-1" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="500" y="100" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lGBiRjt5jMe59tK6bgxN-2" target="lGBiRjt5jMe59tK6bgxN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lGBiRjt5jMe59tK6bgxN-2" target="lGBiRjt5jMe59tK6bgxN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lGBiRjt5jMe59tK6bgxN-2" value="项目总工" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="90" height="30" as="geometry" />
         </mxCell>
