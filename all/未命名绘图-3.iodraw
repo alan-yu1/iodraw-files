@@ -755,11 +755,14 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-5" value="检测中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-6" target="sL556hKIbHo9wMoGJJ92-9">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-6" target="sL556hKIbHo9wMoGJJ92-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-6" value="项目部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sL556hKIbHo9wMoGJJ92-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-7" target="sL556hKIbHo9wMoGJJ92-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-7" value="项目质量领导小组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="100" height="30" as="geometry" />
