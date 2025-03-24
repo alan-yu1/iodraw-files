@@ -1256,7 +1256,7 @@
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.562;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-2" target="urGZ7f0JQtJsr3WMuNrz-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="urGZ7f0JQtJsr3WMuNrz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-2" target="urGZ7f0JQtJsr3WMuNrz-3">
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-2" target="urGZ7f0JQtJsr3WMuNrz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-2" value="组织制定文明施工方案&lt;div&gt;（项目总工）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -1273,6 +1273,9 @@
         </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-4" value="文明施工机械物资管理&lt;div&gt;（综合管理部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-5" target="urGZ7f0JQtJsr3WMuNrz-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-5" value="文明施工现场监督检查&lt;div&gt;（安全环保部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="349" y="280" width="130" height="50" as="geometry" />
