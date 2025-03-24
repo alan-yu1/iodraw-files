@@ -782,7 +782,7 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-10" value="试验检测员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-24" value="质量经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-24" value="施工班组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="80" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
