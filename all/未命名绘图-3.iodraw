@@ -467,6 +467,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WA79-5GAuQPereh8Wf9H-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-1" target="WA79-5GAuQPereh8Wf9H-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-1" value="工程质量目标" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="30" width="104" height="32" as="geometry" />
         </mxCell>
@@ -515,26 +518,26 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-16" value="合格工程" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="970" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-17" value="准备阶段控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="104" height="32" as="geometry" />
+        <mxCell id="WA79-5GAuQPereh8Wf9H-17" value="竣工阶段控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-18" value="设计文件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="350" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-19" value="联合设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="430" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-20" value="联合设计评审" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="530" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="520" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-21" value="设备采购" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="600" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-22" value="作业指导书" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="690" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="680" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-23" value="提出开工报告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="760" width="104" height="32" as="geometry" />
+          <mxGeometry x="740" y="750" width="104" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
