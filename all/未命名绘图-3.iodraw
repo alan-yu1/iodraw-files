@@ -389,13 +389,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-19" value="专职质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="180" y="397" width="23" height="81" as="geometry" />
+          <mxGeometry x="180" y="397" width="29" height="81" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-20" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-20" value="专业工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="220" y="399" width="19" height="83" as="geometry" />
+          <mxGeometry x="230" y="403.5" width="19" height="83" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-21" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
