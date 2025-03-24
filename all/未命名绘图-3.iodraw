@@ -497,6 +497,9 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-10" value="作业指导书" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="680" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-11" value="作业指导书" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="360" y="690" width="104" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
