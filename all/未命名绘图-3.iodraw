@@ -719,6 +719,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sL556hKIbHo9wMoGJJ92-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hp_Yt4VGEPwXeSjm7K4B-1" target="sL556hKIbHo9wMoGJJ92-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hp_Yt4VGEPwXeSjm7K4B-1" value="公司级质量管理委员会" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="250" y="30" width="90" height="30" as="geometry" />
         </mxCell>
