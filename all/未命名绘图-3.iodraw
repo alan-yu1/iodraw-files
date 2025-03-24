@@ -1271,6 +1271,9 @@
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-3" value="监督实施文明施工措施&lt;div&gt;（安全总监）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-4" target="urGZ7f0JQtJsr3WMuNrz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-4" value="文明施工机械物资管理&lt;div&gt;（综合管理部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="130" height="50" as="geometry" />
         </mxCell>
@@ -1280,11 +1283,20 @@
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-5" value="文明施工现场监督检查&lt;div&gt;（安全环保部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="349" y="280" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-6" target="urGZ7f0JQtJsr3WMuNrz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-6" value="制定文明施工方案&lt;div&gt;（工程技术部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="580" y="280" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-7" value="现场文明施工&lt;div&gt;（施工作业队）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="349" y="390" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-18" value="文明施工机械物资管理&lt;div&gt;（综合管理部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-20" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=宋体;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="395" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
