@@ -746,7 +746,7 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-8" value="质量经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-9" value="质量经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-9" value="质量工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
