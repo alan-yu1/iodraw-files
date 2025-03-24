@@ -297,6 +297,9 @@
         <mxCell id="XE41MmLxZB4InboDtId7-11" value="技术交底培训" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="30" y="260" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="XE41MmLxZB4InboDtId7-12" value="技术交底培训" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
+          <mxGeometry x="80" y="260" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
