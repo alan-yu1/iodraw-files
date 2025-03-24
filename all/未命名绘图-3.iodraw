@@ -1251,6 +1251,12 @@
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-3" value="监督实施文明施工措施&lt;div&gt;（安全总监）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-4" value="文明施工机械物资管理&lt;div&gt;（综合管理部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-5" value="文明施工机械物资管理&lt;div&gt;（综合管理部）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
