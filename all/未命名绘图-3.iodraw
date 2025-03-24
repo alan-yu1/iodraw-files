@@ -276,8 +276,8 @@
         <mxCell id="XE41MmLxZB4InboDtId7-4" value="制度保证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="460" y="210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-5" value="制度保证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="470" y="220" width="100" height="30" as="geometry" />
+        <mxCell id="XE41MmLxZB4InboDtId7-5" value="质量控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
+          <mxGeometry x="700" y="210" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
