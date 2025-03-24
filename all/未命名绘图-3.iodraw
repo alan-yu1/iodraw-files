@@ -851,7 +851,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOuAc6b316Bq6uIFJJ5y" name="安全生产管理体系框图">
-    <mxGraphModel dx="1412" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="471" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -863,6 +863,10 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-1" target="TwE_sVUF9mLOqTwVfOhv-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.5" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="100" />
+              <mxPoint x="645" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-1" value="安全方针：安全第一，预防为主，综合治理&lt;div&gt;安全领导小组：项目经理、项目总工、安全总监&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
