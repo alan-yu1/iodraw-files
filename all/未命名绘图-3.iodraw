@@ -352,6 +352,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XE41MmLxZB4InboDtId7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-15" value="质检部&lt;br&gt;&lt;div&gt;(质量实施负责人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="190" y="310" width="100" height="40" as="geometry" />
         </mxCell>
@@ -374,7 +377,7 @@
           <mxGeometry x="30" y="440" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-24" value="设备材料质量检验；&lt;div&gt;施工质量控制；&lt;/div&gt;&lt;div&gt;质量问题分析；&lt;/div&gt;&lt;div style=&quot;&quot;&gt;制定施工工艺、规范等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="220" y="460" width="130" height="70" as="geometry" />
+          <mxGeometry x="250" y="480" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-25" value="质量管理规章制度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="460" y="255" width="100" height="30" as="geometry" />
