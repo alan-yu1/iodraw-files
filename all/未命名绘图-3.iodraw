@@ -1385,8 +1385,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NH3NmlH5cY0m9olRb_eM-1" value="项&lt;div&gt;目&lt;/div&gt;&lt;div&gt;经&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="90" width="50" height="120" as="geometry" />
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-1" value="项&lt;div&gt;目&lt;/div&gt;&lt;div&gt;经&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
