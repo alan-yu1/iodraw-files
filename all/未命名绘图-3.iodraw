@@ -709,13 +709,13 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-9" value="质量工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-10" target="sL556hKIbHo9wMoGJJ92-27">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-10" target="sL556hKIbHo9wMoGJJ92-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-10" value="试验检测员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-26">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-24" value="施工班组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
