@@ -500,8 +500,11 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-11" value="提出开工报告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="750" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-12" value="设计文件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="WA79-5GAuQPereh8Wf9H-12" value="技术交底" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="350" width="104" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-13" value="提出开工报告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="533" y="750" width="104" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
