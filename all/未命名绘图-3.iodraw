@@ -860,6 +860,11 @@
             <mxPoint x="413.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-1" target="TwE_sVUF9mLOqTwVfOhv-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-1" value="安全方针：安全第一，预防为主，综合治理&lt;div&gt;安全领导小组：项目经理、项目总工、安全总监&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="276" y="30" width="275" height="50" as="geometry" />
         </mxCell>
