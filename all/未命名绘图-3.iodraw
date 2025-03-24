@@ -667,6 +667,9 @@
         <mxCell id="lGBiRjt5jMe59tK6bgxN-10" value="质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="530" y="300" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-11" value="质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
