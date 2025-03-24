@@ -867,6 +867,12 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-4" value="安全风险辨识" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="60" y="320" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-5" value="安全隐患排查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-6" value="安全隐患排查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
