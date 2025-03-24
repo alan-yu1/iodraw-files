@@ -113,8 +113,11 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-2" value="工程管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="270" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gsz2i_0KuA5E25Z6okBb-3" value="工程管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="90" height="30" as="geometry" />
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-3" value="技术质检部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-4" value="技术质检部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
