@@ -930,6 +930,9 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-13" value="1、安全保障&lt;div&gt;2、安全投入计划&lt;/div&gt;&lt;div&gt;3、安全物资保障&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-14" target="TwE_sVUF9mLOqTwVfOhv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-14" value="安全监督检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="90" height="30" as="geometry" />
         </mxCell>
