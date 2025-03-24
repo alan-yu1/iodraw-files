@@ -1762,8 +1762,8 @@
         <mxCell id="p-PO8TUjXsZ580adlamU-17" value="供配电&lt;div&gt;设施安装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="296" y="525" width="98" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-18" value="隧道通风设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="678.5" y="623" width="130" height="30" as="geometry" />
+        <mxCell id="p-PO8TUjXsZ580adlamU-18" value="照明设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="724" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
