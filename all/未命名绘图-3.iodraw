@@ -903,6 +903,12 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-16" value="不断总结，确保安全" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="337" y="650" width="154" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-17" value="上级领导检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="461" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-18" value="上级领导检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="471" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
