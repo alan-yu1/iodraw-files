@@ -1938,7 +1938,10 @@
           <mxGeometry x="40" y="585" width="750" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-2" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="600" width="100" height="30" as="geometry" />
+          <mxGeometry x="90" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-3" value="存储服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
