@@ -764,11 +764,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7plx_qGJXaLNRQJD_FmK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-5" target="7plx_qGJXaLNRQJD_FmK-2">
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-5" target="7plx_qGJXaLNRQJD_FmK-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="305" />
               <mxPoint x="360" y="305" />
               <mxPoint x="360" y="115" />
             </Array>
@@ -806,6 +805,10 @@
         <mxCell id="7plx_qGJXaLNRQJD_FmK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-9" target="7plx_qGJXaLNRQJD_FmK-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785.0000000000002" y="505" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="565" />
+              <mxPoint x="770" y="375" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-8" value="填中间交工报验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -836,7 +839,7 @@
           <mxGeometry x="360" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-36" value="&lt;font face=&quot;宋体&quot;&gt;合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-39" value="&lt;font face=&quot;宋体&quot;&gt;不合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="410" width="60" height="30" as="geometry" />
