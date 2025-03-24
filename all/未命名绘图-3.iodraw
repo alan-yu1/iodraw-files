@@ -1682,9 +1682,6 @@
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-23" value="隧道通风设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="668.5" y="613" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-26" value="25天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="534.5" y="374" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-27" value="180天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="758.5" y="185" width="60" height="30" as="geometry" />
         </mxCell>
