@@ -1595,7 +1595,7 @@
             <mxPoint x="795.5" y="393" as="sourcePoint" />
             <mxPoint x="845.5" y="343" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="647" y="336" />
+              <mxPoint x="647" y="332" />
               <mxPoint x="645.5" y="220" />
             </Array>
           </mxGeometry>
@@ -1673,7 +1673,7 @@
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-19" value="施工准备&lt;br&gt;（含联合调试）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-25" y="450" width="146" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-20" value="监控系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-20" value="监控设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="688.5" y="255" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-21" value="收费系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
