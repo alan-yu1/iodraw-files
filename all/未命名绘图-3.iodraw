@@ -362,7 +362,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-15" value="质检部&lt;br&gt;&lt;div&gt;(质量实施负责人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="170" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="170" y="317.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-16" target="XE41MmLxZB4InboDtId7-22">
           <mxGeometry relative="1" as="geometry" />
