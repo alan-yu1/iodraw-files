@@ -852,7 +852,7 @@
           <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-26" value="班组质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="185" y="413" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="413" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-27" value="作业人员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="275" y="413" width="60" height="30" as="geometry" />
@@ -1473,7 +1473,7 @@
           <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-30" value="班组环保员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="185" y="413" width="60" height="30" as="geometry" />
+          <mxGeometry x="182.5" y="413" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-31" value="作业人员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="275" y="413" width="60" height="30" as="geometry" />
