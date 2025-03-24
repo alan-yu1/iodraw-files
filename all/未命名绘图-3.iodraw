@@ -876,6 +876,9 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-7" value="安全物质保障" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="60" y="600" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-8" value="1、全员安全责任&lt;div&gt;2、全中安全承诺&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
