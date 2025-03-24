@@ -134,7 +134,7 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-11" value="技术部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="310" y="490" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gsz2i_0KuA5E25Z6okBb-12" value="安环部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-12" value="安全&lt;div&gt;保障&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="490" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-13" value="物质部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
