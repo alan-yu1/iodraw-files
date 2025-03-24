@@ -659,16 +659,7 @@
           <mxGeometry x="400" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGBiRjt5jMe59tK6bgxN-5" value="质量检测部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lGBiRjt5jMe59tK6bgxN-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lGBiRjt5jMe59tK6bgxN-5" target="lGBiRjt5jMe59tK6bgxN-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="120" as="sourcePoint" />
-            <mxPoint x="610" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="200" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="590" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
