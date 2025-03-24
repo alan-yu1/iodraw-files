@@ -1976,7 +1976,7 @@
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-14" value="收费数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="720" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-15" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-15" value="基础信息数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-16" value="养护数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1985,7 +1985,7 @@
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-17" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-18" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-18" value="监控业务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-19" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
