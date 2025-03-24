@@ -262,7 +262,7 @@
         <mxCell id="VTn-n9qVSS_0N7DgXKog-0" />
         <mxCell id="VTn-n9qVSS_0N7DgXKog-1" parent="VTn-n9qVSS_0N7DgXKog-0" />
         <mxCell id="XE41MmLxZB4InboDtId7-0" value="质量保障体系" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="20" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
