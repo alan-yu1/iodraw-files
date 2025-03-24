@@ -1874,7 +1874,7 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-24" value="路网运行保障运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-25" value="路网运行保障运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rNjaJvJadUWT7uW05v9G-25" value="路网运营安全管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
