@@ -1809,7 +1809,7 @@
           <mxGeometry x="40" y="80" width="50" height="340" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-3" value="运&lt;div&gt;营&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-4" value="技术规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="30" height="60" as="geometry" />
