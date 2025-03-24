@@ -401,7 +401,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-21" value="施工&lt;div&gt;队长&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="280" y="410" width="40" height="40" as="geometry" />
+          <mxGeometry x="293" y="403.5" width="21" height="68" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-22" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
