@@ -954,9 +954,12 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-15" target="TwE_sVUF9mLOqTwVfOhv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TwE_sVUF9mLOqTwVfOhv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-15">
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-15" target="TwE_sVUF9mLOqTwVfOhv-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="665" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-15" value="安全奖罚制度" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
