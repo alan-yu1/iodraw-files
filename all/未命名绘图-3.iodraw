@@ -107,24 +107,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dmtOKVe9s1A6iKqgTb0a-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299.8599999999999" y="189.27999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dmtOKVe9s1A6iKqgTb0a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司总经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dmtOKVe9s1A6iKqgTb0a-20" value="质量经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="170" y="380" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dmtOKVe9s1A6iKqgTb0a-29" value="班组长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="170" y="503" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
