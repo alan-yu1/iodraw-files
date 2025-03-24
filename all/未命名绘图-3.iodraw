@@ -855,6 +855,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-1" value="安全方针：安全第一，预防为主，综合治理&lt;div&gt;安全领导小组：项目经理、项目总工、安全总监&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="276" y="30" width="275" height="50" as="geometry" />
         </mxCell>
@@ -892,7 +897,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-7" value="安全物质保障" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="550" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-8" value="1、全员安全责任&lt;div&gt;2、全员安全承诺&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="110" height="50" as="geometry" />
