@@ -852,7 +852,7 @@
           <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-26" value="班组质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="180" y="413" width="65" height="30" as="geometry" />
+          <mxGeometry x="182.5" y="413" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-27" value="作业人员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="275" y="413" width="60" height="30" as="geometry" />
@@ -1331,47 +1331,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-1" target="UwMzK0shoE0hfNaJlO2G-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-1" value="环保领导小组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="840" y="260" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-2" value="环保实施部门" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="840" y="330" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-3" value="技&lt;div&gt;术&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="780" y="410" width="30" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-4" value="安&lt;div&gt;全&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="830" y="410" width="30" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-5" value="环&lt;div&gt;保&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;督&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="885" y="410" width="30" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-6" value="检&lt;div&gt;验&lt;/div&gt;&lt;div&gt;员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="939" y="410" width="30" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-7" value="施&lt;div&gt;工&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;div&gt;长&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="990" y="410" width="30" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TUHGFdIzPC1IwLIu5SMR-3" target="TUHGFdIzPC1IwLIu5SMR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
