@@ -131,6 +131,21 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-10" value="项目总工" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-11" value="技术&lt;div&gt;质检&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-12" value="安全&lt;div&gt;环保&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-13" value="物质&lt;div&gt;设备&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-14" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-15" value="&lt;span style=&quot;background-color: initial;&quot;&gt;工程&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;div&gt;部&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
