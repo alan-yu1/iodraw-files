@@ -1202,6 +1202,9 @@
         <mxCell id="UwMzK0shoE0hfNaJlO2G-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UwMzK0shoE0hfNaJlO2G-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UwMzK0shoE0hfNaJlO2G-2" target="UwMzK0shoE0hfNaJlO2G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwMzK0shoE0hfNaJlO2G-2" value="环保实施部门" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="120" height="40" as="geometry" />
         </mxCell>
