@@ -460,7 +460,7 @@
         <mxCell id="XE41MmLxZB4InboDtId7-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-31" target="XE41MmLxZB4InboDtId7-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-31" value="工程施工阶段：&lt;div&gt;设备、材料到场检验；&lt;/div&gt;&lt;div&gt;施工工艺的执行和监督；&lt;/div&gt;&lt;div&gt;施工过程质量检测和评定；&lt;/div&gt;&lt;div&gt;新工艺、新技术应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
+        <mxCell id="XE41MmLxZB4InboDtId7-31" value="工程施工阶段：&lt;div&gt;设备、材料到场检验；&lt;span style=&quot;background-color: initial;&quot;&gt;施工工艺的执行和监督；&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;施工过程质量检测和评定；&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;新工艺、新技术应用&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="610" y="357.5" width="100" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-32" target="XE41MmLxZB4InboDtId7-33">
