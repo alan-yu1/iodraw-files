@@ -226,7 +226,10 @@
           <mxGeometry x="270" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-23" value="隧道机电系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="270" y="690" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="690" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-24" value="施工准备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="108.5" y="429" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
