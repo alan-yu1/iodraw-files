@@ -151,6 +151,11 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-5" value="物质&lt;div&gt;设备&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gsz2i_0KuA5E25Z6okBb-6" target="vFXWL_5maKKCguEU6HhL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-6" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="50" height="60" as="geometry" />
         </mxCell>
