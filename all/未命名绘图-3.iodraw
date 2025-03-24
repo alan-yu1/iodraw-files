@@ -1642,7 +1642,7 @@
             <mxPoint x="718.5" y="407" as="sourcePoint" />
             <mxPoint x="768.5" y="357" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="818.5" y="336" />
+              <mxPoint x="817" y="332" />
               <mxPoint x="818.5" y="412" />
             </Array>
           </mxGeometry>
@@ -1764,6 +1764,9 @@
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-18" value="照明设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="668.5" y="724" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p-PO8TUjXsZ580adlamU-19" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="699.5" y="665" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
