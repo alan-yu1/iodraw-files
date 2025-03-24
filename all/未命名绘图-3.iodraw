@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KW0ABDTjqQnIwkF3TrwD" name="工序质量控制">
-    <mxGraphModel dx="807" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1177" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -768,8 +768,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="235" />
-              <mxPoint x="340" y="115" />
+              <mxPoint x="360" y="235" />
+              <mxPoint x="360" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -817,9 +817,6 @@
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-26" value="&lt;font face=&quot;宋体&quot;&gt;不合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7plx_qGJXaLNRQJD_FmK-27" value="&lt;font face=&quot;宋体&quot;&gt;合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-30" value="&lt;font face=&quot;宋体&quot;&gt;不合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="60" height="30" as="geometry" />
