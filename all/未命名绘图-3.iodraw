@@ -718,6 +718,9 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sL556hKIbHo9wMoGJJ92-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-24" value="施工班组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="185" y="350" width="60" height="30" as="geometry" />
         </mxCell>
@@ -725,7 +728,7 @@
           <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-26" value="班组质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="185" y="413" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="420" width="60" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-27" value="作业人员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="275" y="413" width="60" height="30" as="geometry" />
