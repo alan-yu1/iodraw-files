@@ -506,11 +506,20 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-6" value="设计文件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="330" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-7" target="WA79-5GAuQPereh8Wf9H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-7" value="联合设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="410" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-8" target="WA79-5GAuQPereh8Wf9H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-8" value="联合设计评审" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="500" width="104" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-9" target="WA79-5GAuQPereh8Wf9H-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-9" value="设备采购" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="580" width="104" height="32" as="geometry" />
