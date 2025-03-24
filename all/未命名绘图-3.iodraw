@@ -754,6 +754,9 @@
         <mxCell id="7plx_qGJXaLNRQJD_FmK-9" value="监理质检、填质量验收单" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-10" value="签认中间工程证书" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
