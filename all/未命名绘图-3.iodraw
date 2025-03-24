@@ -1898,6 +1898,9 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-32" value="数据计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="360" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-33" value="数据计算引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
