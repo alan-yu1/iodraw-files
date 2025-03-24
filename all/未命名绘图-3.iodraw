@@ -1868,8 +1868,8 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-22" value="服务区业务运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-23" value="服务区业务运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="rNjaJvJadUWT7uW05v9G-23" value="公众服务业务运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
