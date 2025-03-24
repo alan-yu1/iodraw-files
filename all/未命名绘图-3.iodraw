@@ -558,7 +558,16 @@
           <mxGeometry x="550" y="480" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-33" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="80" height="20" as="geometry" />
+          <mxGeometry x="550" y="526" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-34" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-35" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="550" y="606" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-36" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
