@@ -1568,7 +1568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3XFNx2zzvf9-5ZOyiWoB" name="网络图">
-    <mxGraphModel dx="1412" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2581" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1671,7 +1671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-19" value="施工准备&lt;br&gt;（含联合调试）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="424" y="446" width="146" height="35" as="geometry" />
+          <mxGeometry x="-25" y="450" width="146" height="35" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-20" value="监控系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="688.5" y="255" width="90" height="30" as="geometry" />
@@ -1726,6 +1726,9 @@
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="176" y="380" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="p-PO8TUjXsZ580adlamU-7" value="25天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="544.5" y="384" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
