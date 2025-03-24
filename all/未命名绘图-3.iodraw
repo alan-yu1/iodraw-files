@@ -909,8 +909,8 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-18" value="项目部检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="461" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TwE_sVUF9mLOqTwVfOhv-19" value="项目部检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="471" y="230" width="90" height="30" as="geometry" />
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-19" value="施工队长自查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="461" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
