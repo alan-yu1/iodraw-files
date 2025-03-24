@@ -1788,8 +1788,11 @@
         <mxCell id="p-PO8TUjXsZ580adlamU-19" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="665" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-29" value="15天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="p-PO8TUjXsZ580adlamU-29" value="30天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="543" y="299" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p-PO8TUjXsZ580adlamU-30" value="30天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="553" y="309" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
