@@ -1529,6 +1529,12 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-19" value="机械&lt;div&gt;设备&lt;div&gt;及时&lt;div&gt;清洗&lt;div&gt;保养&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-20" target="NH3NmlH5cY0m9olRb_eM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-20" target="NH3NmlH5cY0m9olRb_eM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-20" value="按时&lt;div&gt;上下班，&lt;/div&gt;&lt;div&gt;无误工现象&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="40" height="90" as="geometry" />
         </mxCell>
@@ -1537,6 +1543,9 @@
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-21" value="综合办每日&lt;div&gt;检查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="145" y="450" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-22" target="NH3NmlH5cY0m9olRb_eM-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-22" value="检查情况汇报，&lt;div&gt;提出整改及奖惩意见&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="590" width="137.5" height="80" as="geometry" />
