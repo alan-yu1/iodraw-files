@@ -578,7 +578,10 @@
           <mxGeometry x="740" y="730" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-31" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="545" y="450" width="80" height="20" as="geometry" />
+          <mxGeometry x="545" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-32" target="WA79-5GAuQPereh8Wf9H-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-32" value="基础验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="545" y="490" width="80" height="20" as="geometry" />
