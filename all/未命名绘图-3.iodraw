@@ -1812,7 +1812,7 @@
           <mxGeometry x="50" y="150" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-4" value="技术规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="155" width="30" height="60" as="geometry" />
+          <mxGeometry x="120" y="145" width="30" height="75" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-5" value="数据标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="30" height="60" as="geometry" />
