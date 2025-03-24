@@ -128,7 +128,7 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-9" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gsz2i_0KuA5E25Z6okBb-10" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-10" value="项目总共" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
