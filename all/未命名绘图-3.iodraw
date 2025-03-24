@@ -347,22 +347,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="380" />
-              <mxPoint x="360" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="380" />
-              <mxPoint x="300" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -373,14 +357,6 @@
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-15" value="质检部&lt;br&gt;&lt;div&gt;质量实施负责人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="184" y="300" width="88" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-16" target="XE41MmLxZB4InboDtId7-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="335" y="380" />
-              <mxPoint x="360" y="380" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-16" value="项目总工&lt;br&gt;&lt;div&gt;质量技术负责人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="282" y="300" width="86" height="40" as="geometry" />
