@@ -110,9 +110,6 @@
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司总经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gsz2i_0KuA5E25Z6okBb-2" value="工程管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-3" value="技术质检部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="90" height="30" as="geometry" />
         </mxCell>
@@ -123,7 +120,10 @@
           <mxGeometry x="620" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-6" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="50" height="50" as="geometry" />
+          <mxGeometry x="120" y="200" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-8" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
