@@ -1394,6 +1394,12 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-3" value="综&lt;div&gt;合&lt;/div&gt;&lt;div&gt;办&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="50" y="190" width="30" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-4" value="施&lt;div&gt;工&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-5" value="施&lt;div&gt;工&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="30" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
