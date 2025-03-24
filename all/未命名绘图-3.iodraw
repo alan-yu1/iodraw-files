@@ -870,14 +870,23 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-3" value="安全教育培训" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="220" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-4" target="TwE_sVUF9mLOqTwVfOhv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-4" value="安全风险辨识" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-5" target="TwE_sVUF9mLOqTwVfOhv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-5" value="安全隐患排查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="60" y="420" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-6" target="TwE_sVUF9mLOqTwVfOhv-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-6" value="安全应急处置" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="90" y="470" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-7" value="安全物质保障" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="60" y="600" width="90" height="30" as="geometry" />
