@@ -122,8 +122,8 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-5" value="物质设备部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="620" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gsz2i_0KuA5E25Z6okBb-6" value="综合管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="30" height="30" as="geometry" />
+        <mxCell id="gsz2i_0KuA5E25Z6okBb-6" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
