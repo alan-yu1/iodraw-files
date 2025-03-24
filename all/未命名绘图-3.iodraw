@@ -1838,7 +1838,7 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-12" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;安&lt;/div&gt;&lt;div&gt;全&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="360" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rNjaJvJadUWT7uW05v9G-13" value="运营综合管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="490" height="60" as="geometry" />
         </mxCell>
       </root>
