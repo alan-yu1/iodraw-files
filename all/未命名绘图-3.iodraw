@@ -1517,8 +1517,14 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-17" value="检&lt;span style=&quot;background-color: initial;&quot;&gt;查&lt;/span&gt;&lt;div&gt;各&lt;span style=&quot;background-color: initial;&quot;&gt;项&lt;/span&gt;&lt;/div&gt;&lt;div&gt;技&lt;span style=&quot;background-color: initial;&quot;&gt;术&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="465" y="450" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-18" target="NH3NmlH5cY0m9olRb_eM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-18" value="确保&lt;div&gt;及时&lt;/div&gt;&lt;div&gt;到位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="380" y="450" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-19" target="NH3NmlH5cY0m9olRb_eM-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-19" value="机械&lt;div&gt;设备&lt;div&gt;及时&lt;div&gt;清洗&lt;div&gt;保养&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="450" width="40" height="90" as="geometry" />
