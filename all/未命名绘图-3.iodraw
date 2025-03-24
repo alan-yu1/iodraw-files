@@ -720,10 +720,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hp_Yt4VGEPwXeSjm7K4B-1" value="公司级质量管理委员会" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="500" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="250" y="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-1" value="公司级质量管理委员会" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="510" y="30" width="90" height="30" as="geometry" />
+        <mxCell id="sL556hKIbHo9wMoGJJ92-1" value="质量总监" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
