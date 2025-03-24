@@ -1823,7 +1823,7 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-7" value="支&lt;div&gt;撑&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="260" width="30" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-8" value="运营业务" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=middle;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="rNjaJvJadUWT7uW05v9G-8" value="运营业务" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="530" height="280" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-9" value="网&lt;div&gt;络&lt;/div&gt;&lt;div&gt;安&lt;/div&gt;&lt;div&gt;全&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
@@ -1837,6 +1837,9 @@
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-12" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;安&lt;/div&gt;&lt;div&gt;全&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="360" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
