@@ -506,6 +506,9 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-13" value="项目质量计划验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="750" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-14" value="项目质量计划验证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="533" y="820" width="104" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
