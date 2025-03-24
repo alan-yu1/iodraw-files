@@ -746,7 +746,7 @@
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="110" as="targetPoint" />
+            <mxPoint x="730" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-3" value="工程自检" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -759,9 +759,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="243" />
-              <mxPoint x="780" y="110" />
-              <mxPoint x="670" y="110" />
+              <mxPoint x="750" y="243" />
+              <mxPoint x="750" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
