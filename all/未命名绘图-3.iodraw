@@ -1688,16 +1688,16 @@
           <mxGeometry x="758.5" y="536" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-31" value="单机调试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="921.5" y="446" width="90" height="30" as="geometry" />
+          <mxGeometry x="912" y="446" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-32" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1098.5" y="382" width="59" height="59" as="geometry" />
+          <mxGeometry x="1060" y="382" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-34" value="30天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="995.5" y="367" width="60" height="30" as="geometry" />
+          <mxGeometry x="975" y="371" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-35" value="联合调试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1083" y="446" width="90" height="30" as="geometry" />
+          <mxGeometry x="1044.5" y="446" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p-PO8TUjXsZ580adlamU-1" target="p-PO8TUjXsZ580adlamU-4">
           <mxGeometry relative="1" as="geometry" />
