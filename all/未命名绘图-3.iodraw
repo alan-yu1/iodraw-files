@@ -783,7 +783,13 @@
           <mxGeometry x="270" y="300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-24" value="施工班组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sL556hKIbHo9wMoGJJ92-25" value="班组长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sL556hKIbHo9wMoGJJ92-26" value="班组长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="100" y="423" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
