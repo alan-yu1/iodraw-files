@@ -357,8 +357,8 @@
         <mxCell id="XE41MmLxZB4InboDtId7-32" value="工程完工阶段：&lt;div&gt;完工、竣工验收和质量评定；&lt;/div&gt;&lt;div&gt;存在问题的解决和整改措施；&lt;/div&gt;&lt;div&gt;竣工文件的管理；&lt;/div&gt;&lt;div&gt;售后服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="680" y="510" width="140" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="XE41MmLxZB4InboDtId7-33" value="质量保障体系" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="360" y="20" width="100" height="30" as="geometry" />
+        <mxCell id="XE41MmLxZB4InboDtId7-33" value="最终实现质量目标" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
+          <mxGeometry x="340" y="710" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
