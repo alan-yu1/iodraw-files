@@ -764,7 +764,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7plx_qGJXaLNRQJD_FmK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-4">
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-4" target="7plx_qGJXaLNRQJD_FmK-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="235" as="targetPoint" />
           </mxGeometry>
