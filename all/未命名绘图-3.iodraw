@@ -122,7 +122,7 @@
         <mxCell id="vFXWL_5maKKCguEU6HhL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3" target="gsz2i_0KuA5E25Z6okBb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFXWL_5maKKCguEU6HhL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3">
+        <mxCell id="vFXWL_5maKKCguEU6HhL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3" target="vFXWL_5maKKCguEU6HhL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="375" y="230" as="targetPoint" />
           </mxGeometry>
@@ -166,8 +166,11 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-15" value="工程部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFXWL_5maKKCguEU6HhL-1" target="gsz2i_0KuA5E25Z6okBb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFXWL_5maKKCguEU6HhL-1" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;宣城至东至高速公路泾县至青阳界段机电工程项目部&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="265" y="310" width="220" height="50" as="geometry" />
+          <mxGeometry x="265" y="300" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
