@@ -1285,7 +1285,7 @@
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUHGFdIzPC1IwLIu5SMR-9" target="TUHGFdIzPC1IwLIu5SMR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TUHGFdIzPC1IwLIu5SMR-9" value="质量管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TUHGFdIzPC1IwLIu5SMR-9" value="环保部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-10" value="质量管理督察室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
