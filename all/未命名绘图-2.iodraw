@@ -216,6 +216,9 @@
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-19" value="施工准备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="419" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-20" value="监控系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
