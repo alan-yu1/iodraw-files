@@ -407,7 +407,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-22" value="现场质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="340" y="410" width="40" height="40" as="geometry" />
+          <mxGeometry x="330" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-23" target="XE41MmLxZB4InboDtId7-33">
           <mxGeometry relative="1" as="geometry" />
@@ -437,7 +437,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-27" value="质量检查：&lt;div&gt;1、分系统检查&lt;/div&gt;&lt;div&gt;2、单项工程检查&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、工序质量检查&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="403" y="355" width="67" height="95" as="geometry" />
+          <mxGeometry x="403" y="320" width="67" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-28" target="XE41MmLxZB4InboDtId7-29">
           <mxGeometry relative="1" as="geometry" />
