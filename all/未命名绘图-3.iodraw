@@ -512,6 +512,9 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-15" value="项目竣工评价" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="900" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-16" value="合格工程" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="533" y="970" width="104" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
