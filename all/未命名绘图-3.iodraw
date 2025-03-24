@@ -1562,7 +1562,7 @@
           <mxGeometry x="295" y="590" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-32" value="工&lt;div&gt;期&lt;/div&gt;&lt;div&gt;保&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="420" y="590" width="40" height="110" as="geometry" />
+          <mxGeometry x="420" y="590" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
