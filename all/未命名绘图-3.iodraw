@@ -1208,6 +1208,9 @@
         <mxCell id="UwMzK0shoE0hfNaJlO2G-5" value="环保监督员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="345" y="250" width="30" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="UwMzK0shoE0hfNaJlO2G-6" value="环保监督员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="355" y="260" width="30" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
