@@ -1806,7 +1806,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rNjaJvJadUWT7uW05v9G-2" value="平&lt;div&gt;台&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div style=&quot;&quot;&gt;范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="50" height="550" as="geometry" />
+          <mxGeometry x="40" y="40" width="50" height="430" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-3" value="运&lt;div&gt;营&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="30" height="80" as="geometry" />
@@ -1814,7 +1814,7 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-4" value="技&lt;div&gt;术&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-5" value="数据标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rNjaJvJadUWT7uW05v9G-5" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="360" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-6" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
