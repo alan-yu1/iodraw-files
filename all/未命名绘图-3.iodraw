@@ -410,10 +410,10 @@
           <mxGeometry x="450" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-27" value="质量检查：&lt;div&gt;1、分系统检查&lt;/div&gt;&lt;div&gt;2、单项工程检查&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、工序质量检查&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="403" y="315" width="97" height="115" as="geometry" />
+          <mxGeometry x="403" y="315" width="97" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-28" value="激励机制：&lt;div&gt;1、逐级签订质量目标责任书。&lt;/div&gt;&lt;div&gt;2、各项考核与工程质量挂钩。与经济利益挂钩。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="510" y="315" width="110" height="115" as="geometry" />
+          <mxGeometry x="510" y="315" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-29" value="落实各项质量措施" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="460" y="480" width="100" height="30" as="geometry" />
