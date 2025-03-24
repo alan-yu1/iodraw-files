@@ -825,7 +825,7 @@
           <mxGeometry x="680" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-35" value="&lt;font face=&quot;宋体&quot;&gt;不合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
