@@ -655,8 +655,11 @@
             <mxPoint x="610" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lGBiRjt5jMe59tK6bgxN-4" value="项目总工" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="90" height="30" as="geometry" />
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-4" value="工程技术部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-5" value="工程技术部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
