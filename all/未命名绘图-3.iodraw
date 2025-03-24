@@ -1259,6 +1259,18 @@
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-2" value="组织制定文明施工方案&lt;div&gt;（项目总工）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="urGZ7f0JQtJsr3WMuNrz-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="211" />
+              <mxPoint x="645" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urGZ7f0JQtJsr3WMuNrz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="urGZ7f0JQtJsr3WMuNrz-3" target="urGZ7f0JQtJsr3WMuNrz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="urGZ7f0JQtJsr3WMuNrz-3" value="监督实施文明施工措施&lt;div&gt;（安全总监）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="130" height="50" as="geometry" />
         </mxCell>
