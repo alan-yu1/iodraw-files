@@ -895,7 +895,7 @@
           <mxGeometry x="240" y="540" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-14" value="安全监督检查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="580" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="600" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-15" value="安全奖罚制度" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="580" y="420" width="90" height="30" as="geometry" />
@@ -911,6 +911,9 @@
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-19" value="施工队长自查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="461" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-20" value="1、定期开展安全隐患排查&lt;div&gt;2、及时落实隐患整改&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
