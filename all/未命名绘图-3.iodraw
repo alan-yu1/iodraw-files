@@ -1811,8 +1811,8 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-3" value="运&lt;div&gt;营&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rNjaJvJadUWT7uW05v9G-4" value="技术规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="30" height="75" as="geometry" />
+        <mxCell id="rNjaJvJadUWT7uW05v9G-4" value="技&lt;div&gt;术&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-5" value="数据标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="30" height="60" as="geometry" />
