@@ -292,13 +292,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-2" value="人员保障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="40" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="69" y="182.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-3" target="XE41MmLxZB4InboDtId7-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-3" value="组织保证" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="224" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="225" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-4" target="XE41MmLxZB4InboDtId7-25">
           <mxGeometry relative="1" as="geometry" />
@@ -316,48 +316,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-11" value="技术交底培训" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="40" y="300" width="20" height="120" as="geometry" />
+          <mxGeometry x="69" y="302.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-12" target="XE41MmLxZB4InboDtId7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-12" value="专业技能培训" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="80" y="300" width="20" height="120" as="geometry" />
+          <mxGeometry x="109" y="302.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-13" target="XE41MmLxZB4InboDtId7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-13" value="质量控制培训" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="120" y="300" width="20" height="120" as="geometry" />
+          <mxGeometry x="149" y="302.5" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-14" target="XE41MmLxZB4InboDtId7-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="284" />
-              <mxPoint x="329" y="284" />
+              <mxPoint x="275" y="284" />
+              <mxPoint x="330" y="284" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-14" target="XE41MmLxZB4InboDtId7-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="274" y="284" />
-              <mxPoint x="232" y="284" />
+              <mxPoint x="275" y="284" />
+              <mxPoint x="233" y="284" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-14" value="项目经理&lt;div&gt;（质量总负责人）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="224" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="225" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-15" value="质检部&lt;br&gt;&lt;div&gt;质量实施负责人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="188" y="300" width="88" height="40" as="geometry" />
+          <mxGeometry x="189" y="300" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-16" target="XE41MmLxZB4InboDtId7-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="202" y="383" as="targetPoint" />
+            <mxPoint x="203" y="383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-16" target="XE41MmLxZB4InboDtId7-20">
@@ -370,43 +370,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-16" value="项目总工&lt;br&gt;&lt;div&gt;质量技术负责人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="286" y="300" width="86" height="40" as="geometry" />
+          <mxGeometry x="287" y="300" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-19" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-19" value="专职质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="189" y="390.5" width="23" height="81" as="geometry" />
+          <mxGeometry x="190" y="390.5" width="23" height="81" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-20" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-20" value="专业工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="231" y="388.5" width="19" height="83" as="geometry" />
+          <mxGeometry x="232" y="388.5" width="19" height="83" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-21" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-21" value="施工&lt;div&gt;队长&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="297" y="390" width="21" height="81.5" as="geometry" />
+          <mxGeometry x="298" y="390" width="21" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-22" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-22" value="现场质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="339" y="391" width="23" height="82" as="geometry" />
+          <mxGeometry x="340" y="391" width="23" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-23" target="XE41MmLxZB4InboDtId7-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-23" value="强化职工的质量意识&lt;div&gt;提升职工技术水平&lt;/div&gt;&lt;div&gt;提高工人专业技能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="30" y="535" width="120" height="50" as="geometry" />
+          <mxGeometry x="59" y="537.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-24" target="XE41MmLxZB4InboDtId7-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-24" value="设备材料质量检验；&lt;div&gt;施工质量控制；&lt;/div&gt;&lt;div&gt;质量问题分析；&lt;/div&gt;&lt;div style=&quot;&quot;&gt;制定施工工艺、规范等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="209" y="515" width="130" height="70" as="geometry" />
+          <mxGeometry x="210" y="515" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-25" target="XE41MmLxZB4InboDtId7-27">
           <mxGeometry relative="1" as="geometry" />
