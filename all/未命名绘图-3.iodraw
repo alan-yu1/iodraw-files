@@ -800,6 +800,9 @@
         <mxCell id="7plx_qGJXaLNRQJD_FmK-26" value="&lt;font face=&quot;宋体&quot;&gt;不合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-27" value="&lt;font face=&quot;宋体&quot;&gt;合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
