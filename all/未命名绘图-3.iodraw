@@ -656,7 +656,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lGBiRjt5jMe59tK6bgxN-4" value="工程技术部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="90" height="30" as="geometry" />
+          <mxGeometry x="400" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lGBiRjt5jMe59tK6bgxN-5" value="质量检测部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="590" y="220" width="90" height="30" as="geometry" />
@@ -669,12 +669,6 @@
         </mxCell>
         <mxCell id="lGBiRjt5jMe59tK6bgxN-11" value="质检工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="650" y="300" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lGBiRjt5jMe59tK6bgxN-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="lGBiRjt5jMe59tK6bgxN-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="170" as="sourcePoint" />
-            <mxPoint x="555" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
