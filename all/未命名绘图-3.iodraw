@@ -136,14 +136,19 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-4" value="安全&lt;div&gt;环保&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gsz2i_0KuA5E25Z6okBb-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-5" value="物质&lt;div&gt;设备&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="540" y="200" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-6" value="综合&lt;div&gt;管理&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="50" height="60" as="geometry" />
+          <mxGeometry x="150" y="200" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;工程&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;div&gt;部&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="50" height="60" as="geometry" />
+          <mxGeometry x="250" y="200" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vFXWL_5maKKCguEU6HhL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsz2i_0KuA5E25Z6okBb-9" target="gsz2i_0KuA5E25Z6okBb-10">
           <mxGeometry relative="1" as="geometry" />
