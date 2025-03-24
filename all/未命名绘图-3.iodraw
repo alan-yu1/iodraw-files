@@ -1196,8 +1196,11 @@
         <mxCell id="UwMzK0shoE0hfNaJlO2G-1" value="环保领导小组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UwMzK0shoE0hfNaJlO2G-2" value="环保领导小组" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="UwMzK0shoE0hfNaJlO2G-2" value="环保实施部门" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UwMzK0shoE0hfNaJlO2G-3" value="环保实施部门" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
