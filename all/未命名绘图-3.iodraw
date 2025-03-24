@@ -110,11 +110,14 @@
         <mxCell id="vFXWL_5maKKCguEU6HhL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3" target="gsz2i_0KuA5E25Z6okBb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3" target="gsz2i_0KuA5E25Z6okBb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司总经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-3" value="技术&lt;div&gt;质检&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="50" height="60" as="geometry" />
+          <mxGeometry x="300" y="200" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-4" value="安全&lt;div&gt;环保&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="50" height="60" as="geometry" />
