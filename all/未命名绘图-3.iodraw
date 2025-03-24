@@ -145,8 +145,14 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-8" value="&lt;span style=&quot;background-color: initial;&quot;&gt;工程&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管理&lt;/span&gt;&lt;div&gt;部&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="200" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gsz2i_0KuA5E25Z6okBb-9" target="gsz2i_0KuA5E25Z6okBb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-9" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vFXWL_5maKKCguEU6HhL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gsz2i_0KuA5E25Z6okBb-10" target="gsz2i_0KuA5E25Z6okBb-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-10" value="项目总工" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="90" height="30" as="geometry" />
