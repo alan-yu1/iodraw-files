@@ -1808,6 +1808,9 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-2" value="平台标准规范" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="50" height="340" as="geometry" />
         </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-3" value="运营规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
