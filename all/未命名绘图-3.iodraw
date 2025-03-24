@@ -755,12 +755,13 @@
         <mxCell id="7plx_qGJXaLNRQJD_FmK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-4" target="7plx_qGJXaLNRQJD_FmK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7plx_qGJXaLNRQJD_FmK-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-4" target="7plx_qGJXaLNRQJD_FmK-2">
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="7plx_qGJXaLNRQJD_FmK-4" target="7plx_qGJXaLNRQJD_FmK-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="235" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="243" />
               <mxPoint x="780" y="108" />
+              <mxPoint x="670" y="108" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -825,7 +826,7 @@
           <mxGeometry x="680" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-35" value="&lt;font face=&quot;宋体&quot;&gt;进行下道工序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7plx_qGJXaLNRQJD_FmK-36" value="&lt;font face=&quot;宋体&quot;&gt;合格&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="210" width="60" height="30" as="geometry" />
