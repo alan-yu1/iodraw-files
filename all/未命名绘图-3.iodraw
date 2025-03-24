@@ -1481,10 +1481,16 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-14" value="确保&lt;div&gt;设备&lt;/div&gt;&lt;div&gt;正常&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-15" target="NH3NmlH5cY0m9olRb_eM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-15" value="督促&lt;div&gt;各&lt;/div&gt;&lt;div&gt;施&lt;span style=&quot;background-color: initial;&quot;&gt;工&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;队员&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-16" target="NH3NmlH5cY0m9olRb_eM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-16" target="NH3NmlH5cY0m9olRb_eM-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-16" value="保证现场道路通畅，水、电供应，工人吃住情况良好" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
