@@ -1762,8 +1762,8 @@
         <mxCell id="p-PO8TUjXsZ580adlamU-16" value="光电缆&lt;div&gt;设施安装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="290" y="374" width="98" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-17" value="光电缆&lt;div&gt;设施安装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="300" y="384" width="98" height="35" as="geometry" />
+        <mxCell id="p-PO8TUjXsZ580adlamU-17" value="供配电&lt;div&gt;设施安装&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="296" y="525" width="98" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
