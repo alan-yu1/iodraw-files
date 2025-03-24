@@ -244,7 +244,10 @@
           <mxGeometry x="340" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-31" value="调试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="450" y="419" width="90" height="30" as="geometry" />
+          <mxGeometry x="456" y="419" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-32" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="590" y="355" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
