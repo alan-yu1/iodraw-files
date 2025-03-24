@@ -1842,7 +1842,10 @@
           <mxGeometry x="180" y="70" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rNjaJvJadUWT7uW05v9G-14" value="综合运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="200" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-15" value="综合运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="105" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
