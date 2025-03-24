@@ -583,14 +583,20 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-20" value="整理质量记录" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="720" y="500" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-21" target="WA79-5GAuQPereh8Wf9H-23">
+        <mxCell id="WA79-5GAuQPereh8Wf9H-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-21" target="WA79-5GAuQPereh8Wf9H-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-21" value="编制竣工文件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="720" y="580" width="104" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-22" target="WA79-5GAuQPereh8Wf9H-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-22" value="联合验收" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="720" y="660" width="104" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-23" target="WA79-5GAuQPereh8Wf9H-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-23" value="竣工验收报告" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="720" y="730" width="104" height="32" as="geometry" />
