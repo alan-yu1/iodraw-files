@@ -646,7 +646,7 @@
         <mxCell id="sL556hKIbHo9wMoGJJ92-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hp_Yt4VGEPwXeSjm7K4B-1" target="sL556hKIbHo9wMoGJJ92-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sL556hKIbHo9wMoGJJ92-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hp_Yt4VGEPwXeSjm7K4B-1" target="sL556hKIbHo9wMoGJJ92-2">
+        <mxCell id="sL556hKIbHo9wMoGJJ92-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hp_Yt4VGEPwXeSjm7K4B-1" target="sL556hKIbHo9wMoGJJ92-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hp_Yt4VGEPwXeSjm7K4B-1" value="公司级质量管理委员会" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -668,16 +668,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-2" value="质量管理部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="90" height="30" as="geometry" />
+          <mxGeometry x="310" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-3" value="质量管理督察室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-4" value="技术标准室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="30" height="70" as="geometry" />
+          <mxGeometry x="340" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-5" value="检测中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="30" height="70" as="geometry" />
+          <mxGeometry x="390" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-6" target="sL556hKIbHo9wMoGJJ92-7">
           <mxGeometry relative="1" as="geometry" />
