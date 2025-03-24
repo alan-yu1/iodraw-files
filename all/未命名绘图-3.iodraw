@@ -533,10 +533,10 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-17" value="竣工阶段控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="740" y="260" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-18" value="设计文件" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="WA79-5GAuQPereh8Wf9H-18" value="最终检验试验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="740" y="350" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-19" value="联合设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="WA79-5GAuQPereh8Wf9H-19" value="质量缺陷处理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="740" y="430" width="104" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-20" value="联合设计评审" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
