@@ -1643,19 +1643,8 @@
             <mxPoint x="718.5" y="487" as="sourcePoint" />
             <mxPoint x="768.5" y="437" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="818.5" y="463" />
-              <mxPoint x="818.5" y="412" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;" parent="1" source="C3J3tQ8SpHnUjaDEkPH2-5" target="C3J3tQ8SpHnUjaDEkPH2-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718.5" y="487" as="sourcePoint" />
-            <mxPoint x="888.5" y="417" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="826" y="577" />
-              <mxPoint x="826" y="497" />
-              <mxPoint x="826" y="416" />
+              <mxPoint x="827" y="463" />
+              <mxPoint x="827" y="412" />
             </Array>
           </mxGeometry>
         </mxCell>
