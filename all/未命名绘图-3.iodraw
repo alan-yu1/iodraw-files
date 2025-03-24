@@ -671,10 +671,10 @@
           <mxGeometry x="300" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-3" value="质量管理督察室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="30" height="30" as="geometry" />
+          <mxGeometry x="290" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-4" value="技术标准室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-5" value="检测中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="90" height="30" as="geometry" />
