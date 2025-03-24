@@ -1826,6 +1826,18 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="530" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-9" value="平&lt;div&gt;台&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div style=&quot;&quot;&gt;范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="50" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-10" value="运&lt;div&gt;营&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-11" value="技&lt;div&gt;术&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;范&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="265" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-12" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;准&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="30" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
