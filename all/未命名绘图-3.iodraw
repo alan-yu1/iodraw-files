@@ -851,7 +851,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOuAc6b316Bq6uIFJJ5y" name="安全生产管理体系框图">
-    <mxGraphModel dx="831" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -879,10 +879,16 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-2" target="TwE_sVUF9mLOqTwVfOhv-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-2" target="TwE_sVUF9mLOqTwVfOhv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-2" value="安全责任制度" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-3" target="TwE_sVUF9mLOqTwVfOhv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-3" target="TwE_sVUF9mLOqTwVfOhv-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-3" value="安全教育培训" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
@@ -891,10 +897,16 @@
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-4" target="TwE_sVUF9mLOqTwVfOhv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-4" target="TwE_sVUF9mLOqTwVfOhv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-4" value="安全风险辨识" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-5" target="TwE_sVUF9mLOqTwVfOhv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TwE_sVUF9mLOqTwVfOhv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TwE_sVUF9mLOqTwVfOhv-5" target="TwE_sVUF9mLOqTwVfOhv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TwE_sVUF9mLOqTwVfOhv-5" value="安全隐患排查" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontFamily=宋体;" vertex="1" parent="1">
