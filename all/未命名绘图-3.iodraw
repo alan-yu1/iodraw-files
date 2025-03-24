@@ -339,6 +339,9 @@
         <mxCell id="XE41MmLxZB4InboDtId7-25" value="质量管理规章制度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="460" y="255" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XE41MmLxZB4InboDtId7-27" value="强化职工的质量意识&lt;div&gt;提升职工技术水平&lt;/div&gt;&lt;div&gt;提高工人专业技能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
+          <mxGeometry x="450" y="340" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
