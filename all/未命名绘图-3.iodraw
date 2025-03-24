@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KW0ABDTjqQnIwkF3TrwD" name="工序质量控制">
-    <mxGraphModel dx="565" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="272" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,8 +759,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="235" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="243" />
-              <mxPoint x="750" y="115" />
+              <mxPoint x="770" y="242" />
+              <mxPoint x="770" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
