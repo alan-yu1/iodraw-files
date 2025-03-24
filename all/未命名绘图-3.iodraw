@@ -113,7 +113,7 @@
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-3" target="dmtOKVe9s1A6iKqgTb0a-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司级质量管理委员会" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司总经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmtOKVe9s1A6iKqgTb0a-5" target="dmtOKVe9s1A6iKqgTb0a-14">
