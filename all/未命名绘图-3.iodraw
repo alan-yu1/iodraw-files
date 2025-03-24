@@ -494,9 +494,6 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-4" value="施工阶段控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="533" y="260" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WA79-5GAuQPereh8Wf9H-5" target="WA79-5GAuQPereh8Wf9H-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WA79-5GAuQPereh8Wf9H-5" value="准备阶段控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="104" height="32" as="geometry" />
         </mxCell>
