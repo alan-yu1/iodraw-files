@@ -1994,7 +1994,7 @@
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-20" value="运营安全数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="720" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-21" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-21" value="能源管理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-22" value="服务区数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2003,7 +2003,7 @@
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-23" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-24" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ym3i5HpLrqiI-Ie48A9A-24" value="机电管理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-25" value="计算服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
