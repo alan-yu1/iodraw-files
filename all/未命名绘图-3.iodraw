@@ -1892,6 +1892,9 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-30" value="运营业务" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="560" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-31" value="综合运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
