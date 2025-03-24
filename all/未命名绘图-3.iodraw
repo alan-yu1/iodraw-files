@@ -1405,7 +1405,7 @@
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-11" value="技术标准室" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TUHGFdIzPC1IwLIu5SMR-12" value="检测中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TUHGFdIzPC1IwLIu5SMR-12" value="检查中心" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUHGFdIzPC1IwLIu5SMR-14" target="TUHGFdIzPC1IwLIu5SMR-18">
