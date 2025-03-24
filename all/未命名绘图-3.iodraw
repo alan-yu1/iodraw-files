@@ -670,6 +670,12 @@
         <mxCell id="lGBiRjt5jMe59tK6bgxN-11" value="质检工程师" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="650" y="300" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-13" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="560" y="150" as="sourcePoint" />
+            <mxPoint x="610" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
