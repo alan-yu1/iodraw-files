@@ -261,11 +261,14 @@
       <root>
         <mxCell id="VTn-n9qVSS_0N7DgXKog-0" />
         <mxCell id="VTn-n9qVSS_0N7DgXKog-1" parent="VTn-n9qVSS_0N7DgXKog-0" />
+        <mxCell id="XE41MmLxZB4InboDtId7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-0" target="XE41MmLxZB4InboDtId7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-0" value="质量保障体系" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="350" y="10" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;质量管理目标：&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;工程交工验收的质量评定：合格；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;竣工验收的质量评定：优良。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="307" y="80" width="186" height="60" as="geometry" />
+          <mxGeometry x="307" y="70" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-2" value="人员保障" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="30" y="210" width="100" height="30" as="geometry" />
