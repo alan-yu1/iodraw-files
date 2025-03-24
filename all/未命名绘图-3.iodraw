@@ -1432,7 +1432,7 @@
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUHGFdIzPC1IwLIu5SMR-20" target="TUHGFdIzPC1IwLIu5SMR-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TUHGFdIzPC1IwLIu5SMR-20" value="环保督导员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TUHGFdIzPC1IwLIu5SMR-20" value="技术员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUHGFdIzPC1IwLIu5SMR-22" target="TUHGFdIzPC1IwLIu5SMR-28">
@@ -1472,7 +1472,7 @@
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-29" value="班组长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="90" y="413" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TUHGFdIzPC1IwLIu5SMR-30" value="班组质检员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="TUHGFdIzPC1IwLIu5SMR-30" value="班组环保员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="185" y="413" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TUHGFdIzPC1IwLIu5SMR-31" value="作业人员" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
