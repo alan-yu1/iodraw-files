@@ -1409,6 +1409,9 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-8" value="工&lt;div&gt;作&lt;/div&gt;&lt;div&gt;保&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="690" y="270" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-9" value="工&lt;div&gt;作&lt;/div&gt;&lt;div&gt;保&lt;/div&gt;&lt;div&gt;证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="40" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
