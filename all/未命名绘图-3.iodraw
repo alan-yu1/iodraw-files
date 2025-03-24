@@ -128,10 +128,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmtOKVe9s1A6iKqgTb0a-3" value="公司总经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="330" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-3" value="技术&lt;div&gt;质检&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="50" height="60" as="geometry" />
+          <mxGeometry x="350" y="200" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gsz2i_0KuA5E25Z6okBb-4" value="安全&lt;div&gt;环保&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="50" height="60" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFXWL_5maKKCguEU6HhL-1" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;宣城至东至高速公路泾县至青阳界段机电工程项目部&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="265" y="300" width="220" height="50" as="geometry" />
+          <mxGeometry x="265" y="310" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
