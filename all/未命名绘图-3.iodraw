@@ -719,6 +719,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hp_Yt4VGEPwXeSjm7K4B-1" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
