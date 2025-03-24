@@ -1779,14 +1779,13 @@
         <mxCell id="p-PO8TUjXsZ580adlamU-18" value="照明设施安装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="668.5" y="724" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p-PO8TUjXsZ580adlamU-19" target="p-PO8TUjXsZ580adlamU-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="p-PO8TUjXsZ580adlamU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p-PO8TUjXsZ580adlamU-19" target="C3J3tQ8SpHnUjaDEkPH2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="828" y="694.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-19" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="665" width="59" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-25" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=25;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="828" y="654.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
