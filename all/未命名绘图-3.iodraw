@@ -639,7 +639,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GXUcd45dvZChWKH7XiNE" name="质量管理组织机构">
-    <mxGraphModel dx="272" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,7 +724,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="390" />
+              <mxPoint x="305" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sL556hKIbHo9wMoGJJ92-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sL556hKIbHo9wMoGJJ92-24" target="sL556hKIbHo9wMoGJJ92-26">
           <mxGeometry relative="1" as="geometry" />
