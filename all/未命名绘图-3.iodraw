@@ -1053,8 +1053,8 @@
             <mxPoint x="280" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7GoVRiY0R-7huufXmJRT-11" value="超车道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="280" y="447" width="60" height="30" as="geometry" />
+        <mxCell id="7GoVRiY0R-7huufXmJRT-11" value="行车道" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="280" y="446" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
