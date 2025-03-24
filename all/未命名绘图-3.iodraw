@@ -1880,6 +1880,12 @@
         <mxCell id="rNjaJvJadUWT7uW05v9G-26" value="机电管理运维运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-27" value="路域经济运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rNjaJvJadUWT7uW05v9G-28" value="运行监测运营管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
