@@ -488,8 +488,11 @@
         <mxCell id="WA79-5GAuQPereh8Wf9H-7" value="联合设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="350" y="430" width="104" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WA79-5GAuQPereh8Wf9H-8" value="联合设计" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="104" height="32" as="geometry" />
+        <mxCell id="WA79-5GAuQPereh8Wf9H-8" value="联合设计评审" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="104" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WA79-5GAuQPereh8Wf9H-9" value="联合设计评审" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="104" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
