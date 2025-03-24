@@ -431,13 +431,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-30" value="&lt;div&gt;工程初始阶段：&lt;/div&gt;&lt;div&gt;联合设计及图纸审查；&lt;/div&gt;&lt;div&gt;工厂监造和检验；&lt;/div&gt;&lt;div&gt;制定施工工艺；&lt;/div&gt;&lt;div&gt;施工机械和仪器仪表完好&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="670" y="240" width="140" height="105" as="geometry" />
+          <mxGeometry x="670" y="230" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-31" target="XE41MmLxZB4InboDtId7-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-31" value="工程施工阶段：&lt;div&gt;设备、材料到场检验；&lt;/div&gt;&lt;div&gt;施工工艺的执行和监督；&lt;/div&gt;&lt;div&gt;施工过程质量检测和评定；&lt;/div&gt;&lt;div&gt;新工艺、新技术应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="670" y="380" width="140" height="105" as="geometry" />
+          <mxGeometry x="670" y="357.5" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-32" value="工程完工阶段：&lt;div&gt;完工、竣工验收和质量评定；&lt;/div&gt;&lt;div&gt;存在问题的解决和整改措施；&lt;/div&gt;&lt;div&gt;竣工文件的管理；&lt;/div&gt;&lt;div&gt;售后服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;align=left;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
           <mxGeometry x="670" y="510" width="140" height="105" as="geometry" />
