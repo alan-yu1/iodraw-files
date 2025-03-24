@@ -639,7 +639,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GXUcd45dvZChWKH7XiNE" name="质量管理组织机构">
-    <mxGraphModel dx="272" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="471" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,6 +707,16 @@
             <Array as="points">
               <mxPoint x="635" y="280" />
               <mxPoint x="575" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lGBiRjt5jMe59tK6bgxN-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lGBiRjt5jMe59tK6bgxN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="270" as="sourcePoint" />
+            <mxPoint x="585" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="290" />
+              <mxPoint x="585" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
