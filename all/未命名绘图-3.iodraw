@@ -1412,6 +1412,9 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-2" value="项&lt;div&gt;目&lt;/div&gt;&lt;div&gt;总&lt;/div&gt;&lt;div&gt;工&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="580" y="70" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-3" target="NH3NmlH5cY0m9olRb_eM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-3" value="综&lt;div&gt;合&lt;/div&gt;&lt;div&gt;办&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="30" height="70" as="geometry" />
         </mxCell>
@@ -1472,6 +1475,9 @@
         <mxCell id="NH3NmlH5cY0m9olRb_eM-15" value="督促&lt;div&gt;各&lt;/div&gt;&lt;div&gt;施&lt;span style=&quot;background-color: initial;&quot;&gt;工&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;队员&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-16" target="NH3NmlH5cY0m9olRb_eM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-16" value="保证现场道路通畅，水、电供应，工人吃住情况良好" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="270" width="65" height="90" as="geometry" />
         </mxCell>
@@ -1486,6 +1492,9 @@
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-20" value="按时&lt;div&gt;上下班，&lt;/div&gt;&lt;div&gt;无误工现象&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NH3NmlH5cY0m9olRb_eM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NH3NmlH5cY0m9olRb_eM-21" target="NH3NmlH5cY0m9olRb_eM-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NH3NmlH5cY0m9olRb_eM-21" value="综合办每日&lt;div&gt;检查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="145" y="450" width="40" height="90" as="geometry" />
