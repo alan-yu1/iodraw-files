@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0cEk12JFgOBmiu8rt-fK" name="质量保障体系图">
-    <mxGraphModel dx="1412" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VTn-n9qVSS_0N7DgXKog-0" />
         <mxCell id="VTn-n9qVSS_0N7DgXKog-1" parent="VTn-n9qVSS_0N7DgXKog-0" />
@@ -353,8 +353,8 @@
         <mxCell id="XE41MmLxZB4InboDtId7-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-15" target="XE41MmLxZB4InboDtId7-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="370" />
-              <mxPoint x="300" y="370" />
+              <mxPoint x="220" y="380" />
+              <mxPoint x="300" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -368,7 +368,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-16" value="项目总工&lt;br&gt;&lt;div&gt;（质量技术负责人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="VTn-n9qVSS_0N7DgXKog-1">
-          <mxGeometry x="280" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="317.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XE41MmLxZB4InboDtId7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VTn-n9qVSS_0N7DgXKog-1" source="XE41MmLxZB4InboDtId7-19" target="XE41MmLxZB4InboDtId7-24">
           <mxGeometry relative="1" as="geometry" />
