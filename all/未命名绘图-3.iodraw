@@ -797,6 +797,9 @@
         <mxCell id="7plx_qGJXaLNRQJD_FmK-11" value="计量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="515" y="680" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7plx_qGJXaLNRQJD_FmK-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
