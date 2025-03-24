@@ -1998,10 +1998,10 @@
           <mxGeometry x="420" y="770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-22" value="服务区数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="720" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-23" value="应急保障数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="770" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-24" value="机电管理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="720" width="81" height="30" as="geometry" />
