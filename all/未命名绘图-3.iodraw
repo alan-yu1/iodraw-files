@@ -146,8 +146,8 @@
         <mxCell id="gsz2i_0KuA5E25Z6okBb-15" value="工程部" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vFXWL_5maKKCguEU6HhL-1" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="650" y="230" width="90" height="30" as="geometry" />
+        <mxCell id="vFXWL_5maKKCguEU6HhL-1" value="&lt;span style=&quot;font-size: 12pt; line-height: 150%;&quot;&gt;宣城至东至高速公路泾县至青阳界段机电工程项目部&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
