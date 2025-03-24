@@ -1582,12 +1582,17 @@
           <mxGeometry x="699.5" y="433" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C3J3tQ8SpHnUjaDEkPH2-5" target="C3J3tQ8SpHnUjaDEkPH2-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="577" />
+              <mxPoint x="830" y="412" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-5" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="699.5" y="547" width="59" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-6" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-6" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="936.5" y="382" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;fontFamily=Times New Roman;" parent="1" source="p-PO8TUjXsZ580adlamU-12" target="C3J3tQ8SpHnUjaDEkPH2-2" edge="1">
@@ -1678,7 +1683,7 @@
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-30" value="245天" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="758.5" y="536" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-31" value="调试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-31" value="单机调试" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="921.5" y="446" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C3J3tQ8SpHnUjaDEkPH2-32" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
