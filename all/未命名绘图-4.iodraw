@@ -2432,7 +2432,7 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3" target="ws6UjYkhMzKpEqEIdf9N-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3" target="ws6UjYkhMzKpEqEIdf9N-9">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3" target="ws6UjYkhMzKpEqEIdf9N-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-3" value="通行费运营管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
