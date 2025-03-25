@@ -2631,8 +2631,11 @@
         <mxCell id="T3-Kl94kb55-_3SYMJZX-14" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="900" y="320" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="T3-Kl94kb55-_3SYMJZX-15" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-15" value="菜单管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="930" y="320" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-16" value="生成专报" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
