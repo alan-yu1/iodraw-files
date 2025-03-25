@@ -2165,7 +2165,7 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-10" value="养护资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="291" y="519" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-11" target="LxykqqVw58tqxLVrgNkL-14">
+        <mxCell id="LxykqqVw58tqxLVrgNkL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-11" target="LxykqqVw58tqxLVrgNkL-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-11" value="主线" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
