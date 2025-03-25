@@ -2355,11 +2355,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-87" target="LxykqqVw58tqxLVrgNkL-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-87" target="LxykqqVw58tqxLVrgNkL-89">
+        <mxCell id="LxykqqVw58tqxLVrgNkL-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-87" target="LxykqqVw58tqxLVrgNkL-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-87" value="非公路资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="929" y="519" width="80" height="26" as="geometry" />
+          <mxGeometry x="922" y="519" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-88" value="交通秩序设施" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="936" y="597" width="18" height="162" as="geometry" />
