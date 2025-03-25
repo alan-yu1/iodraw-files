@@ -2131,22 +2131,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-3" value="道路资产运营管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="490" y="346" width="138" height="31" as="geometry" />
+          <mxGeometry x="532" y="346" width="138" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-4" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="159" y="431" width="80" height="31" as="geometry" />
+          <mxGeometry x="201" y="431" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-5" value="资产一张图" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="338" y="431" width="80" height="31" as="geometry" />
+          <mxGeometry x="380" y="431" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-7" target="LxykqqVw58tqxLVrgNkL-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-7" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="519" y="431" width="80" height="31" as="geometry" />
+          <mxGeometry x="561" y="431" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-8" value="资产核查管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="744" y="431" width="80" height="31" as="geometry" />
+          <mxGeometry x="786" y="431" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-9" value="资产运营报表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="947" y="433" width="80" height="31" as="geometry" />
+          <mxGeometry x="989" y="433" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-10" value="养护资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="291" y="519" width="80" height="26" as="geometry" />
