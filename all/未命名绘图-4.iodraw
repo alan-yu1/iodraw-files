@@ -2190,8 +2190,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-28" value="避险车道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="662" y="630" width="18" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-29" value="避险车道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="672" y="640" width="18" height="108" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-29" value="紧急停车区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="693" y="630" width="18" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-30" value="涵洞" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="542" y="586" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
