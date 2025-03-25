@@ -2023,8 +2023,11 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-2" value="施工准备" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_qe6BDsJyNlamKKBEav-3" value="施工准备" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="80" height="30" as="geometry" />
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-3" value="施工测量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-4" value="施工测量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
