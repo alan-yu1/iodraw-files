@@ -1747,7 +1747,7 @@
             <mxPoint x="646" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="owa_x-c3xxPbjCVwbIBD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p-PO8TUjXsZ580adlamU-9">
+        <mxCell id="owa_x-c3xxPbjCVwbIBD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="p-PO8TUjXsZ580adlamU-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="410" as="targetPoint" />
           </mxGeometry>
