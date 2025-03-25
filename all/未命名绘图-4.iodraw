@@ -1986,28 +1986,28 @@
           <mxGeometry x="202" y="770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-18" value="监控业务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309" y="720" width="76" height="30" as="geometry" />
+          <mxGeometry x="317" y="720" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-19" value="公众服务数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309" y="770" width="76" height="30" as="geometry" />
+          <mxGeometry x="317" y="770" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-20" value="运营安全数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="720" width="80" height="30" as="geometry" />
+          <mxGeometry x="428" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-21" value="能源管理数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="770" width="80" height="30" as="geometry" />
+          <mxGeometry x="428" y="770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-22" value="服务区数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="720" width="80" height="30" as="geometry" />
+          <mxGeometry x="548" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-23" value="应急保障数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="770" width="80" height="30" as="geometry" />
+          <mxGeometry x="548" y="770" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-24" value="机电管理数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="659" y="720" width="81" height="30" as="geometry" />
+          <mxGeometry x="667" y="720" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ym3i5HpLrqiI-Ie48A9A-25" value="运维管理数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="659" y="770" width="81" height="30" as="geometry" />
+          <mxGeometry x="667" y="770" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
