@@ -2328,8 +2328,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-78" value="加气站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="825" y="598" width="18" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-79" value="加气站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="LxykqqVw58tqxLVrgNkL-79" value="充电站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="852" y="597" width="18" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-80" value="加油站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="879" y="598" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
