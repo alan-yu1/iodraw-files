@@ -2426,6 +2426,15 @@
         <mxCell id="T3-Kl94kb55-_3SYMJZX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="T3-Kl94kb55-_3SYMJZX-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="T3-Kl94kb55-_3SYMJZX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="T3-Kl94kb55-_3SYMJZX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="T3-Kl94kb55-_3SYMJZX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-2" value="收费业务子系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="60" width="120" height="30" as="geometry" />
         </mxCell>
@@ -2735,6 +2744,9 @@
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-48" value="" style="whiteSpace=wrap;html=1;fontFamily=宋体;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-54" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
