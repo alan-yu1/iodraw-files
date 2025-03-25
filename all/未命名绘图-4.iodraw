@@ -2370,6 +2370,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-92" value="养护工程投资" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1020" y="548" width="18" height="212" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-93" value="路产损失赔偿" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="1057" y="548" width="18" height="212" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
