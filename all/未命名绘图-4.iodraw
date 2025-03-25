@@ -2108,7 +2108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ig99KQ6aGELAa7ndgSRY" name="第 15 页">
-    <mxGraphModel dx="822" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="731" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2274,6 +2274,9 @@
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-41" value="隧道机电" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="603" y="597" width="18" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-61" value="机电资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="571" y="529" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
