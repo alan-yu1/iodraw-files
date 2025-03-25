@@ -2459,6 +2459,12 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-18" value="优惠里程" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-19" value="费率管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-20" value="费率管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
