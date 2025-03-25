@@ -2426,11 +2426,13 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3" target="ws6UjYkhMzKpEqEIdf9N-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3" target="ws6UjYkhMzKpEqEIdf9N-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-3" value="通行费运营管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="20" height="110" as="geometry" />
+          <mxGeometry x="280" y="180" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-5" value="涉及跨省车辆稽核情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="540" y="740" width="20" height="150" as="geometry" />
@@ -2439,16 +2441,16 @@
           <mxGeometry x="50" y="320" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-7" value="通行量管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="250" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-8" value="收费政策管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="280" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-9" value="ETC及移动支付管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="310" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-10" value="日常报销" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="340" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-17" target="ws6UjYkhMzKpEqEIdf9N-18">
           <mxGeometry relative="1" as="geometry" />
@@ -2466,22 +2468,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-17" value="差异化分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="20" height="110" as="geometry" />
+          <mxGeometry x="430" y="180" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-18" value="优惠里程" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="430" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-19" value="费率管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="460" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-20" value="运距管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="490" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-21" value="通行费管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="370" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-22" value="通行量管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="400" y="340" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-28" value="收费管理指标情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="475" y="740" width="20" height="150" as="geometry" />
