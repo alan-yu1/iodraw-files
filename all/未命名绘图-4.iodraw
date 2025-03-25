@@ -2172,6 +2172,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-22" value="隧道其他工程设施" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="495" y="576" width="18" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-23" value="隧道其他工程设施" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="532" y="576" width="18" height="162" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
