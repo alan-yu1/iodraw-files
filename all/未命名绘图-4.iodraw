@@ -2322,6 +2322,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-76" target="LxykqqVw58tqxLVrgNkL-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-76" target="LxykqqVw58tqxLVrgNkL-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-76" value="路域经济资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="827" y="519" width="80" height="26" as="geometry" />
         </mxCell>
