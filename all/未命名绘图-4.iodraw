@@ -2417,7 +2417,7 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-2" value="收费业务子系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-3" value="收费业务子系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-3" value="通行费运营管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="180" y="510" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
