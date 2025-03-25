@@ -2163,8 +2163,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-19" value="高边坡" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="378" y="576" width="18" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-20" value="高边坡" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="LxykqqVw58tqxLVrgNkL-20" value="桥梁" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="421" y="576" width="18" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-21" value="桥梁" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="460" y="576" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
