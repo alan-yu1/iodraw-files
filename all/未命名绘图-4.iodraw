@@ -2119,13 +2119,16 @@
           <mxGeometry x="489" y="366" width="138" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-4" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="158" y="431" width="65" height="31" as="geometry" />
+          <mxGeometry x="158" y="431" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-5" value="资产一张图" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="337" y="431" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-7" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="518" y="431" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-8" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="743" y="431" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
