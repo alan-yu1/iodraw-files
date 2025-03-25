@@ -2033,13 +2033,16 @@
           <mxGeometry x="440" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-6" value="摄像机安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="350" y="585" width="80" height="30" as="geometry" />
+          <mxGeometry x="334" y="585" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-7" value="能见度、诱导设备安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="460" y="585" width="80" height="30" as="geometry" />
+          <mxGeometry x="440" y="585" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-8" value="可变信息标志安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="570" y="585" width="80" height="30" as="geometry" />
+          <mxGeometry x="550" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-9" value="能见度、诱导设备安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="450" y="595" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
