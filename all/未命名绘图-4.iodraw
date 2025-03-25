@@ -2563,8 +2563,8 @@
             <mxPoint x="1020" y="635.0285714285715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-52" value="清分结算分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="970" y="580" width="20" height="110" as="geometry" />
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-52" value="联网收费系统运行分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="30" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
