@@ -2130,8 +2130,8 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-8" value="资产核查管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="743" y="431" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-9" value="资产核查管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="753" y="441" width="80" height="31" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-9" value="资产运营报表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="946" y="433" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
