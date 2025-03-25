@@ -2278,8 +2278,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-61" value="房建资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="664" y="519" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-62" value="隧道机电" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="613" y="607" width="18" height="162" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-62" value="服务区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="630" y="597" width="18" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-63" value="服务区" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="640" y="607" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
