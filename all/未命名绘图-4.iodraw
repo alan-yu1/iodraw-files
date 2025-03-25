@@ -2161,7 +2161,7 @@
           <mxGeometry x="150" y="691" width="18" height="46" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-14" value="路线交叉" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="179" y="576" width="18" height="162" as="geometry" />
+          <mxGeometry x="174" y="576" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-15" value="匝道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="209" y="576" width="18" height="162" as="geometry" />
@@ -2191,7 +2191,7 @@
           <mxGeometry x="461" y="576" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-24" value="交安设施" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="569" y="579" width="117" height="21" as="geometry" />
+          <mxGeometry x="489" y="576" width="117" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-25" value="交通标志" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="569" y="630" width="18" height="108" as="geometry" />
