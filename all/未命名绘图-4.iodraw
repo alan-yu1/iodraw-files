@@ -2293,6 +2293,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-66" value="治超站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="744" y="597" width="18" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-67" value="人文景观设施" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="771" y="598" width="18" height="162" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
