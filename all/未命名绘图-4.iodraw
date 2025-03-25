@@ -2495,10 +2495,10 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-31" value="跨省交易对账情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="600" y="740" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-31">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T3-Kl94kb55-_3SYMJZX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-30">
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-5">
