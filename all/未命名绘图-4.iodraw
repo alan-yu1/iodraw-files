@@ -2522,6 +2522,12 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-39" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="710" y="399" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-40" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="740" y="399" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-41" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="770" y="399" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
