@@ -2044,6 +2044,12 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-9" value="单设备、子系统调试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-10" value="监控系统联调" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-11" value="监控系统联调" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="450" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
