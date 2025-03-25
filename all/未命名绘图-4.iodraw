@@ -2407,7 +2407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dMQKnNMGX8QtFiU5kYKT" name="第 16 页">
-    <mxGraphModel dx="563" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="986" dy="1448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2498,8 +2498,11 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-31" value="跨省交易对账情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="600" y="740" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-32" target="ws6UjYkhMzKpEqEIdf9N-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-32" value="联网收费稽核" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="20" height="110" as="geometry" />
+          <mxGeometry x="540" y="590" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
