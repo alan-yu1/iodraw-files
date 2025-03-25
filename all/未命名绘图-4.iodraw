@@ -2507,11 +2507,17 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-34" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="560" y="399" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-35" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-35" value="移动支付管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="590" y="399" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-36" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="620" y="399" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-37" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="650" y="399" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-38" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="680" y="399" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
