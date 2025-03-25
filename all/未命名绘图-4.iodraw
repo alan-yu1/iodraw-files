@@ -2549,14 +2549,14 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-48" value="网络安全指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="730" y="380" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-49" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-49" value="治超系统指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="760" y="380" width="20" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-50" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-50" value="联网系统运行综合指标排名" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="790" y="380" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-51" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="823" y="380" width="20" height="150" as="geometry" />
+          <mxGeometry x="830" y="380" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
