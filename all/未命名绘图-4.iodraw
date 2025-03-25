@@ -2124,6 +2124,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-5" value="资产一张图" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="337" y="431" width="65" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-6" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="525.5" y="431" width="65" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
