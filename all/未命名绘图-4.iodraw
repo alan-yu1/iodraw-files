@@ -2569,6 +2569,12 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-55" value="ETC卡管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="770" y="380" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-56" value="用户信息查询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="800" y="380" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-57" value="用户信息查询" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="810" y="390" width="20" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
