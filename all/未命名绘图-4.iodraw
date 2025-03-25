@@ -2493,10 +2493,10 @@
           <mxGeometry x="505" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-30" value="本省通行车辆稽核情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="460" y="368.48" width="20" height="150" as="geometry" />
+          <mxGeometry x="570" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-31" value="跨省交易对账情况" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="490" y="368.48" width="20" height="150" as="geometry" />
+          <mxGeometry x="600" y="740" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
