@@ -2575,11 +2575,14 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-60" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1149" y="740" width="20" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-61" target="ws6UjYkhMzKpEqEIdf9N-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-61" value="发行管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="1100" y="580" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-62" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="480" width="20" height="110" as="geometry" />
+          <mxGeometry x="1149" y="580" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
