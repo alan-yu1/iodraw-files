@@ -2050,6 +2050,11 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-5" value="电缆、光缆&lt;div&gt;敷设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-6" value="摄像机安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="334" y="585" width="80" height="30" as="geometry" />
         </mxCell>
