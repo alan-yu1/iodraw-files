@@ -2505,28 +2505,28 @@
           <mxGeometry x="540" y="590" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-34" value="划前拆前拆后管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="630" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="630" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-35" value="移动支付管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="660" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="660" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-36" value="数据传输管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="690" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="690" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-37" value="EC交易结算管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="720" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="720" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-38" value="客户服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="750" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="750" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-39" value="交易对账管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="780" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="780" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-40" value="其他指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="810" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="810" y="740" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-41" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="840" y="570" width="20" height="150" as="geometry" />
+          <mxGeometry x="840" y="740" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
