@@ -2159,10 +2159,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-7" target="LxykqqVw58tqxLVrgNkL-76">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="491" />
+              <mxPoint x="861" y="491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-7" target="LxykqqVw58tqxLVrgNkL-87">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="601" y="492" />
+              <mxPoint x="962" y="492" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-7" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="561" y="431" width="80" height="31" as="geometry" />
