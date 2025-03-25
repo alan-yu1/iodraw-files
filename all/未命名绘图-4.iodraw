@@ -2147,6 +2147,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-7" target="LxykqqVw58tqxLVrgNkL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-7" value="资产信息管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="561" y="431" width="80" height="31" as="geometry" />
         </mxCell>
