@@ -2637,8 +2637,8 @@
         <mxCell id="T3-Kl94kb55-_3SYMJZX-16" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="900" y="180" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="T3-Kl94kb55-_3SYMJZX-17" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="910" y="190" width="20" height="110" as="geometry" />
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-17" value="事务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="770" y="180" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
