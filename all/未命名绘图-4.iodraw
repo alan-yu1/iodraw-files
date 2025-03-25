@@ -2218,7 +2218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-36" value="机电资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="558" y="519" width="80" height="26" as="geometry" />
+          <mxGeometry x="561" y="519" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-41" value="隧道机电" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="603" y="597" width="18" height="162" as="geometry" />
