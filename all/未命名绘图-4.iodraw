@@ -2284,8 +2284,8 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-63" value="收费站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="657" y="597" width="18" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-64" value="收费站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="667" y="607" width="18" height="162" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-64" value="路产维护站" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="687" y="598" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
