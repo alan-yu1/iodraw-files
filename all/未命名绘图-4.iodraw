@@ -2411,6 +2411,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="ws6UjYkhMzKpEqEIdf9N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ws6UjYkhMzKpEqEIdf9N-2" target="T3-Kl94kb55-_3SYMJZX-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-2" value="收费业务子系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="60" width="120" height="30" as="geometry" />
         </mxCell>
@@ -2717,6 +2723,9 @@
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-17" value="事务管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="690" y="170" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-48" value="" style="whiteSpace=wrap;html=1;fontFamily=宋体;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
