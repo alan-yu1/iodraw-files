@@ -2189,8 +2189,10 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-10" target="LxykqqVw58tqxLVrgNkL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-10" target="LxykqqVw58tqxLVrgNkL-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LxykqqVw58tqxLVrgNkL-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316" y="603" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-10" value="养护资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="291" y="519" width="80" height="26" as="geometry" />
