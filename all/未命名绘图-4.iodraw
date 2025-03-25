@@ -2537,7 +2537,7 @@
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-42" value="清分结算分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="760" y="580" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ws6UjYkhMzKpEqEIdf9N-45" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="ws6UjYkhMzKpEqEIdf9N-45" value="门架指标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="640" y="380" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-46" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
@@ -2556,7 +2556,7 @@
           <mxGeometry x="790" y="380" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ws6UjYkhMzKpEqEIdf9N-51" value="软件管理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="700" y="440" width="20" height="150" as="geometry" />
+          <mxGeometry x="823" y="380" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
