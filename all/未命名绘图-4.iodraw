@@ -2594,13 +2594,16 @@
           <mxGeometry x="700" y="180" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-2" value="通行费收入分析报告" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="20" height="150" as="geometry" />
+          <mxGeometry x="560" y="320" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-3" value="联网收费稽核对账专报" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="590" y="320" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="T3-Kl94kb55-_3SYMJZX-4" value="ETC清分结算及客户服务专报" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="620" y="320" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-Kl94kb55-_3SYMJZX-5" value="联网收费稽核对账专报" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
