@@ -1568,7 +1568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3XFNx2zzvf9-5ZOyiWoB" name="网络图">
-    <mxGraphModel dx="680" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1616,9 +1616,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.966;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="p-PO8TUjXsZ580adlamU-9" target="p-PO8TUjXsZ580adlamU-19" edge="1">
+        <mxCell id="C3J3tQ8SpHnUjaDEkPH2-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="p-PO8TUjXsZ580adlamU-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="547" y="485" as="sourcePoint" />
+            <mxPoint x="646" y="485" as="sourcePoint" />
             <mxPoint x="766.5" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="646" y="485" />
@@ -1727,12 +1727,13 @@
         <mxCell id="p-PO8TUjXsZ580adlamU-8" value="材料采购" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="441" width="104" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="p-PO8TUjXsZ580adlamU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p-PO8TUjXsZ580adlamU-9" target="C3J3tQ8SpHnUjaDEkPH2-5" edge="1">
+        <mxCell id="p-PO8TUjXsZ580adlamU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="C3J3tQ8SpHnUjaDEkPH2-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="646" y="483" />
               <mxPoint x="646" y="577" />
             </Array>
+            <mxPoint x="646" y="490" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p-PO8TUjXsZ580adlamU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="C3J3tQ8SpHnUjaDEkPH2-3" edge="1">
