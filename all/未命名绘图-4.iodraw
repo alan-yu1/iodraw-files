@@ -2151,8 +2151,11 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-15" value="匝道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="224" y="576" width="18" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="LxykqqVw58tqxLVrgNkL-16" value="匝道" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="234" y="586" width="18" height="162" as="geometry" />
+        <mxCell id="LxykqqVw58tqxLVrgNkL-16" value="连接线" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="263" y="576" width="18" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-17" value="连接线" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="273" y="586" width="18" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
