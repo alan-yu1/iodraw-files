@@ -2041,7 +2041,7 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-8" value="可变信息标志安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="585" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_qe6BDsJyNlamKKBEav-9" value="能见度、诱导设备安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-9" value="单设备、子系统调试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
