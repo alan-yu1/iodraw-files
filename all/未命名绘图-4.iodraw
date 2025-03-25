@@ -2167,16 +2167,16 @@
           <mxGeometry x="209" y="576" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-16" value="连接线" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="263" y="576" width="18" height="162" as="geometry" />
+          <mxGeometry x="242" y="575" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-17" value="路面" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="298" y="576" width="18" height="162" as="geometry" />
+          <mxGeometry x="275" y="575" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-18" value="路基" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="337" y="576" width="18" height="162" as="geometry" />
+          <mxGeometry x="308" y="576" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-19" value="高边坡" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="378" y="576" width="18" height="162" as="geometry" />
+          <mxGeometry x="340" y="576" width="18" height="162" as="geometry" />
         </mxCell>
         <mxCell id="LxykqqVw58tqxLVrgNkL-20" value="桥梁" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="421" y="576" width="18" height="162" as="geometry" />
