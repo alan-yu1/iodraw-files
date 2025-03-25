@@ -2032,8 +2032,14 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-3" value="施工测量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-4" target="Q_qe6BDsJyNlamKKBEav-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-4" value="外场管道、手孔、基础施工" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-5" target="Q_qe6BDsJyNlamKKBEav-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-5" value="电缆、光缆&lt;div&gt;敷设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="80" height="30" as="geometry" />
@@ -2041,14 +2047,23 @@
         <mxCell id="Q_qe6BDsJyNlamKKBEav-6" value="摄像机安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="334" y="585" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-7" target="Q_qe6BDsJyNlamKKBEav-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-7" value="能见度、诱导设备安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="585" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-8" value="可变信息标志安装" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="550" y="585" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-9" target="Q_qe6BDsJyNlamKKBEav-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-9" value="单设备、子系统调试" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_qe6BDsJyNlamKKBEav-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q_qe6BDsJyNlamKKBEav-10" target="Q_qe6BDsJyNlamKKBEav-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q_qe6BDsJyNlamKKBEav-10" value="监控系统联调" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="710" width="80" height="30" as="geometry" />
