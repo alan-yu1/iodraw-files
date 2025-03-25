@@ -2211,6 +2211,9 @@
         <mxCell id="LxykqqVw58tqxLVrgNkL-30" value="收费机电" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="739" y="576" width="18" height="162" as="geometry" />
         </mxCell>
+        <mxCell id="LxykqqVw58tqxLVrgNkL-36" value="养护资产" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="518" y="519" width="80" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
